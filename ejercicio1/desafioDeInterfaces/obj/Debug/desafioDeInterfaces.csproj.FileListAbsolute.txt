@@ -1,0 +1,6 @@
+C:\Users\tomas\Desktop\desafioDeInterfaces\desafioDeInterfaces\bin\Debug\desafioDeInterfaces.exe.config
+C:\Users\tomas\Desktop\desafioDeInterfaces\desafioDeInterfaces\bin\Debug\desafioDeInterfaces.exe
+C:\Users\tomas\Desktop\desafioDeInterfaces\desafioDeInterfaces\bin\Debug\desafioDeInterfaces.pdb
+C:\Users\tomas\Desktop\desafioDeInterfaces\desafioDeInterfaces\obj\Debug\desafioDeInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\desafioDeInterfaces\desafioDeInterfaces\obj\Debug\desafioDeInterfaces.exe
+C:\Users\tomas\Desktop\desafioDeInterfaces\desafioDeInterfaces\obj\Debug\desafioDeInterfaces.pdb

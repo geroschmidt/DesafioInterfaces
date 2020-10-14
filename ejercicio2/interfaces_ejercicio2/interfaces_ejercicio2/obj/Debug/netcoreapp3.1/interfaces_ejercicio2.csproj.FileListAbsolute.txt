@@ -1,0 +1,13 @@
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\bin\Debug\netcoreapp3.1\interfaces_ejercicio2.exe
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\bin\Debug\netcoreapp3.1\interfaces_ejercicio2.deps.json
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\bin\Debug\netcoreapp3.1\interfaces_ejercicio2.runtimeconfig.json
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\bin\Debug\netcoreapp3.1\interfaces_ejercicio2.runtimeconfig.dev.json
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\bin\Debug\netcoreapp3.1\interfaces_ejercicio2.dll
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\bin\Debug\netcoreapp3.1\interfaces_ejercicio2.pdb
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\obj\Debug\netcoreapp3.1\interfaces_ejercicio2.csprojAssemblyReference.cache
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\obj\Debug\netcoreapp3.1\interfaces_ejercicio2.AssemblyInfoInputs.cache
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\obj\Debug\netcoreapp3.1\interfaces_ejercicio2.AssemblyInfo.cs
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\obj\Debug\netcoreapp3.1\interfaces_ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\obj\Debug\netcoreapp3.1\interfaces_ejercicio2.dll
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\obj\Debug\netcoreapp3.1\interfaces_ejercicio2.pdb
+C:\Users\geros\source\repos\interfaces_ejercicio2\interfaces_ejercicio2\obj\Debug\netcoreapp3.1\interfaces_ejercicio2.genruntimeconfig.cache
